@@ -18,10 +18,10 @@
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
   <!-- General strings -->
   <string name="unknown">Okänd</string>
-  <string name="cancel">Cancel</string>
-  <string name="loading_indicator">Loading widget\u2026</string>
-  <string name="menu_done">Done</string>
-  <string name="menu_weather_settings">Settings</string>
+  <string name="cancel">Avbryt</string>
+  <string name="loading_indicator">Laddar widget\u2026</string>
+  <string name="menu_done">Klar</string>
+  <string name="menu_weather_settings">Inställningar</string>
   <!-- Formating strings for widget clock -->
   <!-- java.text.SimpleDateFormat uses H for hours in the 0-23 range and
          android.text.format.DateFormat uses k for hours in the 0-23 range.
@@ -29,7 +29,7 @@
   <!-- Weather - Weather codes -->
   <string name="weather_0">Tornado</string>
   <string name="weather_1">Tropical Storm</string>
-  <string name="weather_2">Hurricane</string>
+  <string name="weather_2">Orkan</string>
   <string name="weather_3">Severe Thunderstorms</string>
   <string name="weather_4">Thunderstorms</string>
   <string name="weather_5">Mixed Rain and Snow</string>

@@ -118,7 +118,7 @@
   <string name="display_category">Ekran</string>
   <!-- Preferences - Clock -->
   <string name="use_digital_clock_title">Użyj zegara cyfrowego</string>
-  <string name="use_digital_clock_summary">Select to toggle between the Digital and the Analog clock</string>
+  <string name="use_digital_clock_summary">Wybierz, aby przełączyć pomiędzy zegarem cyfrowym i analogowym</string>
   <string name="clock_font_title">Pogrubione godziny</string>
   <string name="clock_font_minutes_title">Pogrubione minuty</string>
   <string name="clock_font_date_title">Pogrubiona data i alarm</string>
@@ -139,14 +139,14 @@
   <string name="weather_refresh_interval">Częstotliwość aktualizacji</string>
   <string name="weather_use_metric">Jednostki metryczne</string>
   <string name="weather_retrieve_location_dialog_title">Nie można pobrać lokalizacji!</string>
-  <string name="weather_retrieve_location_dialog_message">Network geolocation is disabled.\n\nSet a custom location or enable network location</string>
+  <string name="weather_retrieve_location_dialog_message">Lokalizacja przez sieć jest wyłączona.\n\nUstaw swoje położenie lub włącz lokalizację przez sieć</string>
   <string name="weather_retrieve_location_dialog_enable_button">Włącz</string>
   <string name="weather_invert_lowhigh">Zamień niską/wysoką temperaturę</string>
   <string name="weather_progress_title">Sprawdzanie lokalizacji</string>
   <string name="weather_alternate_icons_title">Użyj alternatywnych ikon</string>
-  <string name="weather_alternate_icons_summary">Select to toggle between the default (Color) and the alternate (White) icons</string>
+  <string name="weather_alternate_icons_summary">Wybierz, aby przełączyć między domyślnymi (białymi), a alternatywnymi (kolorowymi) ikonami</string>
   <string name="weather_show_when_minimized_title">Pokazuj kiedy zminimalizowany</string>
-  <string name="weather_show_when_minimized_summary">Display summary weather information when the widget is minimized</string>
+  <string name="weather_show_when_minimized_summary">Wyświetl informacje o pogodzie, kiedy widżet jest zminimalizowany</string>
   <string name="weather_select_location">Wybierz lokalizację</string>
   <!-- Preferences - Calendar -->
   <string name="calendar_title">Wyświetl następne wydarzenie</string>
@@ -161,7 +161,7 @@
   <string name="calendar_show_description_title">Opis wydarzenia</string>
   <string name="calendar_upcoming_events_category">Nadchodzące wydarzenia</string>
   <string name="calendar_highlight_upcoming_events_title">Wyróżnij wydarzenia</string>
-  <string name="calendar_highlight_upcoming_events_summary">Highlight the current day\'s events and, after 8pm, also the next day\'s events</string>
+  <string name="calendar_highlight_upcoming_events_summary">Wyróżniaj dzisiejsze, a po godz. 20:00 również jutrzejsze wydarzenia</string>
   <string name="calendar_highlight_upcoming_events_bold">Pogrubienie czcionki</string>
   <!-- Preferences - Font colors -->
   <string name="font_color">Kolor czcionki</string>

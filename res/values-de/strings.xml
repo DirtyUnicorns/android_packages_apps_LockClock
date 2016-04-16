@@ -75,8 +75,8 @@
   <string name="weather_38">Vereinzelte Gewitter</string>
   <string name="weather_39">Vereinzelte Gewitter</string>
   <string name="weather_40">Vereinzelte Regenschauer</string>
-  <string name="weather_41">Heavy Snow</string>
-  <string name="weather_42">Scattered Snow Showers</string>
+  <string name="weather_41">Starker Schneefall</string>
+  <string name="weather_42">Vereinzelte Schneeschauer</string>
   <string name="weather_43">Starker Schneefall</string>
   <string name="weather_44">Teilweise bewölkt</string>
   <string name="weather_45">Gewitter</string>
@@ -98,7 +98,7 @@
   <!-- Weather - Error messages -->
   <string name="weather_no_data">Keine Daten</string>
   <string name="weather_tap_to_refresh">Tippen zum Refreshen</string>
-  <string name="weather_refreshing">Refreshing</string>
+  <string name="weather_refreshing">Erfrischend</string>
   <string name="weather_last_sync_just_now">Jetzt</string>
   <string name="weather_cannot_reach_provider">Kann %s im Moment nicht erreichen</string>
   <!-- Weather - Update frequency -->
