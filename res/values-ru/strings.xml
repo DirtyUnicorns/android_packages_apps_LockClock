@@ -17,7 +17,7 @@
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
   <!-- General strings -->
-  <string name="unknown">Unknown</string>
+  <string name="unknown">Не указано</string>
   <string name="cancel">Отмена</string>
   <string name="loading_indicator">Загрузка виджета\u2026</string>
   <string name="menu_done">Выполнено</string>
@@ -37,17 +37,17 @@
   <string name="weather_7">Снег с изморозью</string>
   <string name="weather_8">Замерзающая морось</string>
   <string name="weather_9">Морось</string>
-  <string name="weather_10">Freezing Rain</string>
+  <string name="weather_10">Ледяной дождь</string>
   <string name="weather_11">Ливни</string>
   <string name="weather_12">Ливни</string>
   <string name="weather_13">Snow Flurries</string>
   <string name="weather_14">Light Snow Showers</string>
   <string name="weather_15">Blowing Snow</string>
   <string name="weather_16">Снег</string>
-  <string name="weather_17">Hail</string>
+  <string name="weather_17">Град</string>
   <string name="weather_18">Sleet</string>
   <string name="weather_19">Dust</string>
-  <string name="weather_20">Foggy</string>
+  <string name="weather_20">Туман</string>
   <string name="weather_21">Haze</string>
   <string name="weather_22">Smoky</string>
   <string name="weather_23">Blustery</string>
@@ -84,8 +84,8 @@
   <string name="weather_47">Isolated Thundershowers</string>
   <!-- Forecast unavailable -->
   <!-- Weather - Speed units -->
-  <string name="weather_kph">kph</string>
-  <string name="weather_mph">mph</string>
+  <string name="weather_kph">км/ч</string>
+  <string name="weather_mph">м/ч</string>
   <!-- Weather - Wind directions -->
   <string name="weather_N">N</string>
   <string name="weather_NE">NE</string>
@@ -96,39 +96,39 @@
   <string name="weather_W">W</string>
   <string name="weather_NW">NW</string>
   <!-- Weather - Error messages -->
-  <string name="weather_no_data">No data</string>
-  <string name="weather_tap_to_refresh">Tap to refresh</string>
-  <string name="weather_refreshing">Refreshing</string>
-  <string name="weather_last_sync_just_now">Just now</string>
+  <string name="weather_no_data">Нет данных</string>
+  <string name="weather_tap_to_refresh">Нажмите, чтобы обновить</string>
+  <string name="weather_refreshing">Обновляем...</string>
+  <string name="weather_last_sync_just_now">Только что</string>
   <string name="weather_cannot_reach_provider">Can\'t reach %s at the moment</string>
   <!-- Weather - Update frequency -->
-  <string name="weather_refresh_manual">Manual</string>
-  <string name="weather_refresh_30min">30 minutes</string>
-  <string name="weather_refresh_60min">60 minutes</string>
-  <string name="weather_refresh_2hrs">2 hours</string>
-  <string name="weather_refresh_4hrs">4 hours</string>
-  <string name="weather_refresh_6hrs">6 hours</string>
-  <string name="weather_refresh_8hrs">8 hours</string>
+  <string name="weather_refresh_manual">Вручную</string>
+  <string name="weather_refresh_30min">30 мин.</string>
+  <string name="weather_refresh_60min">60 мин.</string>
+  <string name="weather_refresh_2hrs">2 ч.</string>
+  <string name="weather_refresh_4hrs">4 ч.</string>
+  <string name="weather_refresh_6hrs">6 ч.</string>
+  <string name="weather_refresh_8hrs">8 ч.</string>
   <!-- Preferences - Categories -->
-  <string name="clock_category">Clock and alarm</string>
+  <string name="clock_category">Часы и будильник</string>
   <string name="weather_category">Weather panel</string>
-  <string name="calendar_category">Calendar events</string>
+  <string name="calendar_category">События календаря</string>
   <!-- Preferences - Categories -->
-  <string name="general_category">General</string>
-  <string name="display_category">Display</string>
+  <string name="general_category">Общие</string>
+  <string name="display_category">Экран</string>
   <!-- Preferences - Clock -->
-  <string name="use_digital_clock_title">Use Digital clock</string>
-  <string name="use_digital_clock_summary">Select to toggle between the Digital and the Analog clock</string>
-  <string name="clock_font_title">Bold hours</string>
-  <string name="clock_font_minutes_title">Bold minutes</string>
-  <string name="clock_font_date_title">Bold date and alarm</string>
+  <string name="use_digital_clock_title">Цифровые часы</string>
+  <string name="use_digital_clock_summary">Выбор между цифровыми и аналоговыми часами</string>
+  <string name="clock_font_title">Часы полужирным</string>
+  <string name="clock_font_minutes_title">Минуты полужирным</string>
+  <string name="clock_font_date_title">Дата и будильник полужирным</string>
   <string name="show_alarm_title">Show next alarm</string>
-  <string name="clock_am_pm_title">Show AM/PM indicator</string>
+  <string name="clock_am_pm_title">Показывать индикатор «AM/PM»</string>
   <!-- Preferences - Weather -->
   <string name="weather_enabled">Enabled</string>
   <string name="weather_enable">Display weather</string>
   <string name="weather_source_title">Weather source</string>
-  <string name="weather_source_yahoo">Yahoo! Weather</string>
+  <string name="weather_source_yahoo">Погода Yahoo!</string>
   <string name="weather_use_custom_location">Use custom location</string>
   <string name="weather_geolocated">Geolocated using network</string>
   <string name="weather_custom_location_dialog_title">Enter location</string>
@@ -136,17 +136,17 @@
   <string name="weather_custom_location_title">Location</string>
   <string name="weather_show_location_title">Show location</string>
   <string name="weather_show_timestamp_title">Show timestamp</string>
-  <string name="weather_refresh_interval">Update interval</string>
-  <string name="weather_use_metric">Use metric</string>
-  <string name="weather_retrieve_location_dialog_title">Cannot retrieve location!</string>
+  <string name="weather_refresh_interval">Интервал обновления</string>
+  <string name="weather_use_metric">Метрическая система</string>
+  <string name="weather_retrieve_location_dialog_title">Невозможно определить местоположение!</string>
   <string name="weather_retrieve_location_dialog_message">Network geolocation is disabled.\n\nSet a custom location or enable network location</string>
   <string name="weather_retrieve_location_dialog_enable_button">Enable</string>
-  <string name="weather_invert_lowhigh">Invert low/high temperatures</string>
-  <string name="weather_progress_title">Verifying location</string>
-  <string name="weather_alternate_icons_title">Use color icons</string>
-  <string name="weather_alternate_icons_summary">Select to toggle between the default (Color) and the alternate (White) icons</string>
+  <string name="weather_invert_lowhigh">Инвертировать порядок температур</string>
+  <string name="weather_progress_title">Проверка местоположения</string>
+  <string name="weather_alternate_icons_title">Цветные иконки</string>
+  <string name="weather_alternate_icons_summary">Выбор между иконками по умолчанию (цветные) или альтернативными (белые)</string>
   <string name="weather_show_when_minimized_title">Show when minimized</string>
-  <string name="weather_show_when_minimized_summary">Display summary weather information when the widget is minimized</string>
+  <string name="weather_show_when_minimized_summary">Отображать погоду, когда виджет в свёрнутом состоянии</string>
   <string name="weather_select_location">Select location</string>
   <!-- Preferences - Calendar -->
   <string name="calendar_title">Display next event</string>
