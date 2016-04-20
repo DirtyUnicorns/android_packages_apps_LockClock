@@ -32,8 +32,8 @@
   <string name="weather_2">Orkan</string>
   <string name="weather_3">Severe Thunderstorms</string>
   <string name="weather_4">Thunderstorms</string>
-  <string name="weather_5">Mixed Rain and Snow</string>
-  <string name="weather_6">Mixed Rain and Sleet</string>
+  <string name="weather_5">Blandat regn och snö</string>
+  <string name="weather_6">Blandat regn och snöslask</string>
   <string name="weather_7">Mixed Snow and Sleet</string>
   <string name="weather_8">Freezing Drizzle</string>
   <string name="weather_9">Drizzle</string>
