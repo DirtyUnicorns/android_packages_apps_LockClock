@@ -17,7 +17,7 @@
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
   <!-- General strings -->
-  <string name="unknown">Unknown</string>
+  <string name="unknown">Necunoscut</string>
   <string name="cancel">Cancel</string>
   <string name="loading_indicator">Loading widget\u2026</string>
   <string name="menu_done">Done</string>
