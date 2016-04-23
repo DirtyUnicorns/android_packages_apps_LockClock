@@ -199,6 +199,6 @@
   <!-- Weather icon sets -->
   <string name="weather_icon_set_title">Набор значков</string>
   <string name="weather_icons_standard">Цветные</string>
-  <string name="weather_icons_monochrome">Monochrome</string>
-  <string name="icon_set_selection_get_more">Get more\u2026</string>
+  <string name="weather_icons_monochrome">Монохромные</string>
+  <string name="icon_set_selection_get_more">Скачать ещё</string>
 </resources>
