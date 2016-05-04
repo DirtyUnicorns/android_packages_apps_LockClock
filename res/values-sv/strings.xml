@@ -28,19 +28,19 @@
          We need to support both -->
   <!-- Weather - Weather codes -->
   <string name="weather_0">Tornado</string>
-  <string name="weather_1">Tropical Storm</string>
+  <string name="weather_1">Tropisk storm</string>
   <string name="weather_2">Orkan</string>
-  <string name="weather_3">Severe Thunderstorms</string>
-  <string name="weather_4">Thunderstorms</string>
+  <string name="weather_3">Kraftigt åskväder</string>
+  <string name="weather_4">Åskväder</string>
   <string name="weather_5">Blandat regn och snö</string>
   <string name="weather_6">Blandat regn och snöslask</string>
-  <string name="weather_7">Mixed Snow and Sleet</string>
-  <string name="weather_8">Freezing Drizzle</string>
-  <string name="weather_9">Drizzle</string>
-  <string name="weather_10">Freezing Rain</string>
-  <string name="weather_11">Showers</string>
-  <string name="weather_12">Showers</string>
-  <string name="weather_13">Snow Flurries</string>
+  <string name="weather_7">Blandad snö och slask</string>
+  <string name="weather_8">Underkylt duggregn</string>
+  <string name="weather_9">Duggregn</string>
+  <string name="weather_10">Underkylt regn</string>
+  <string name="weather_11">Regnskurar</string>
+  <string name="weather_12">Regnskurar</string>
+  <string name="weather_13">Kastbyar av snö</string>
   <string name="weather_14">Light Snow Showers</string>
   <string name="weather_15">Blowing Snow</string>
   <string name="weather_16">Snow</string>
@@ -57,14 +57,14 @@
   <!-- Night -->
   <string name="weather_27">Mostly Cloudy</string>
   <!-- Day -->
-  <string name="weather_28">Mostly Cloudy</string>
+  <string name="weather_28">Mestadels mulet</string>
   <!-- Night -->
-  <string name="weather_29">Partly Cloudy</string>
+  <string name="weather_29">Delvis mulet</string>
   <!-- Day -->
-  <string name="weather_30">Partly Cloudy</string>
+  <string name="weather_30">Delvis mulet</string>
   <!-- Night -->
-  <string name="weather_31">Clear</string>
-  <string name="weather_32">Sunny</string>
+  <string name="weather_31">Ta bort</string>
+  <string name="weather_32">Soligt</string>
   <!-- Night -->
   <string name="weather_33">Fair</string>
   <!-- Day -->
