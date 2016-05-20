@@ -63,102 +63,102 @@
   <!-- Day -->
   <string name="weather_30">Parcialmente Nublado</string>
   <!-- Night -->
-  <string name="weather_31">Clear</string>
-  <string name="weather_32">Sunny</string>
+  <string name="weather_31">Limpar</string>
+  <string name="weather_32">Ensolarado</string>
   <!-- Night -->
   <string name="weather_33">Bom</string>
   <!-- Day -->
   <string name="weather_34">Bom</string>
   <string name="weather_35">Chuva e Granizo</string>
   <string name="weather_36">Calor</string>
-  <string name="weather_37">Isolated Thunderstorms</string>
-  <string name="weather_38">Scattered Thunderstorms</string>
-  <string name="weather_39">Scattered Thunderstorms</string>
-  <string name="weather_40">Scattered Showers</string>
+  <string name="weather_37">Trovoadas isoladas</string>
+  <string name="weather_38">Trovoadas dispersas</string>
+  <string name="weather_39">Trovoadas dispersas</string>
+  <string name="weather_40">Chuvas Dispersas</string>
   <string name="weather_41">Neve forte</string>
   <string name="weather_42">Pancadas de neve dispersas</string>
   <string name="weather_43">Neve forte</string>
-  <string name="weather_44">Partly Cloudy</string>
-  <string name="weather_45">Thundershowers</string>
-  <string name="weather_46">Snow Showers</string>
-  <string name="weather_47">Isolated Thundershowers</string>
+  <string name="weather_44">Parcialmente Nublado</string>
+  <string name="weather_45">Chuvas com Trovoadas</string>
+  <string name="weather_46">Pancadas de neve</string>
+  <string name="weather_47">Chuvas com Trovoadas Isoladas</string>
   <!-- Forecast unavailable -->
   <!-- Weather - Speed units -->
-  <string name="weather_kph">kph</string>
-  <string name="weather_mph">mph</string>
+  <string name="weather_kph">km/h</string>
+  <string name="weather_mph">mp/h</string>
   <!-- Weather - Wind directions -->
   <string name="weather_N">N</string>
   <string name="weather_NE">NE</string>
   <string name="weather_E">E</string>
   <string name="weather_SE">SE</string>
   <string name="weather_S">S</string>
-  <string name="weather_SW">SW</string>
-  <string name="weather_W">W</string>
-  <string name="weather_NW">NW</string>
+  <string name="weather_SW">SO</string>
+  <string name="weather_W">O</string>
+  <string name="weather_NW">NO</string>
   <!-- Weather - Error messages -->
-  <string name="weather_no_data">No data</string>
-  <string name="weather_tap_to_refresh">Tap to refresh</string>
-  <string name="weather_refreshing">Refreshing</string>
-  <string name="weather_last_sync_just_now">Just now</string>
-  <string name="weather_cannot_reach_provider">Can\'t reach %s at the moment</string>
+  <string name="weather_no_data">Sem dados</string>
+  <string name="weather_tap_to_refresh">Toque para atualizar</string>
+  <string name="weather_refreshing">Atualizando</string>
+  <string name="weather_last_sync_just_now">Agora mesmo</string>
+  <string name="weather_cannot_reach_provider">%s Inacessível no momento</string>
   <!-- Weather - Update frequency -->
   <string name="weather_refresh_manual">Manual</string>
-  <string name="weather_refresh_30min">30 minutes</string>
-  <string name="weather_refresh_60min">60 minutes</string>
-  <string name="weather_refresh_2hrs">2 hours</string>
-  <string name="weather_refresh_4hrs">4 hours</string>
-  <string name="weather_refresh_6hrs">6 hours</string>
-  <string name="weather_refresh_8hrs">8 hours</string>
+  <string name="weather_refresh_30min">30 minutos</string>
+  <string name="weather_refresh_60min">60 minutos</string>
+  <string name="weather_refresh_2hrs">2 horas</string>
+  <string name="weather_refresh_4hrs">4 Horas</string>
+  <string name="weather_refresh_6hrs">6 horas</string>
+  <string name="weather_refresh_8hrs">8 horas</string>
   <!-- Preferences - Categories -->
-  <string name="clock_category">Clock and alarm</string>
+  <string name="clock_category">Relógio e alarme</string>
   <string name="weather_category">Weather panel</string>
   <string name="calendar_category">Calendar events</string>
   <!-- Preferences - Categories -->
   <string name="general_category">General</string>
-  <string name="display_category">Display</string>
+  <string name="display_category">Exibição</string>
   <!-- Preferences - Clock -->
-  <string name="use_digital_clock_title">Use Digital clock</string>
-  <string name="use_digital_clock_summary">Select to toggle between the Digital and the Analog clock</string>
-  <string name="clock_font_title">Bold hours</string>
+  <string name="use_digital_clock_title">Usar relógio Digital</string>
+  <string name="use_digital_clock_summary">Selecione para alternar entre o relógio Digital e o Analógico</string>
+  <string name="clock_font_title">Horas em negrito</string>
   <string name="clock_font_minutes_title">Bold minutes</string>
   <string name="clock_font_date_title">Bold date and alarm</string>
-  <string name="show_alarm_title">Show next alarm</string>
-  <string name="clock_am_pm_title">Show AM/PM indicator</string>
+  <string name="show_alarm_title">Mostrar próximo alarme</string>
+  <string name="clock_am_pm_title">Mostrar indicador AM/PM</string>
   <!-- Preferences - Weather -->
   <string name="weather_enabled">Enabled</string>
-  <string name="weather_enable">Display weather</string>
-  <string name="weather_source_title">Weather source</string>
-  <string name="weather_source_yahoo">Yahoo! Weather</string>
-  <string name="weather_use_custom_location">Use custom location</string>
-  <string name="weather_geolocated">Geolocated using network</string>
+  <string name="weather_enable">Exibir tempo</string>
+  <string name="weather_source_title">Fonte de meteorologia</string>
+  <string name="weather_source_yahoo">Yahoo! Tempo</string>
+  <string name="weather_use_custom_location">Usar localização personalizada</string>
+  <string name="weather_geolocated">Geolocalização usando a rede</string>
   <string name="weather_custom_location_dialog_title">Enter location</string>
   <string name="weather_custom_location_hint">City, State/Country</string>
   <string name="weather_custom_location_title">Location</string>
   <string name="weather_show_location_title">Show location</string>
-  <string name="weather_show_timestamp_title">Show timestamp</string>
-  <string name="weather_refresh_interval">Update interval</string>
-  <string name="weather_use_metric">Use metric</string>
-  <string name="weather_retrieve_location_dialog_title">Cannot retrieve location!</string>
-  <string name="weather_retrieve_location_dialog_message">Network geolocation is disabled.\n\nSet a custom location or enable network location</string>
+  <string name="weather_show_timestamp_title">Mostrar horário</string>
+  <string name="weather_refresh_interval">Intervalo de atualização</string>
+  <string name="weather_use_metric">Usar sistema métrico</string>
+  <string name="weather_retrieve_location_dialog_title">Impossível determinar localização!</string>
+  <string name="weather_retrieve_location_dialog_message">A geolocalização por rede está desativada.\n\nDefina uma localização ou ative a localização por rede</string>
   <string name="weather_retrieve_location_dialog_enable_button">Enable</string>
   <string name="weather_invert_lowhigh">Invert low/high temperatures</string>
   <string name="weather_progress_title">Verifying location</string>
   <string name="weather_alternate_icons_title">Use color icons</string>
   <string name="weather_alternate_icons_summary">Select to toggle between the default (Color) and the alternate (White) icons</string>
-  <string name="weather_show_when_minimized_title">Show when minimized</string>
-  <string name="weather_show_when_minimized_summary">Display summary weather information when the widget is minimized</string>
-  <string name="weather_select_location">Select location</string>
+  <string name="weather_show_when_minimized_title">Mostrar quando minimizado</string>
+  <string name="weather_show_when_minimized_summary">Mostrar informação resumida do tempo quando o widget está minimizado</string>
+  <string name="weather_select_location">Selecionar localização</string>
   <!-- Preferences - Calendar -->
-  <string name="calendar_title">Display next event</string>
+  <string name="calendar_title">Mostrar próximo evento</string>
   <string name="calendars_title">Event calendars</string>
   <string name="calendars_summary">Find events from these calendars</string>
   <string name="calendar_reminders_only_title">Reminders only</string>
   <string name="calendar_reminders_only_summary">Show only events with reminders</string>
-  <string name="calendar_hide_allday_title">Hide all-day events</string>
-  <string name="calendar_icon_title">Calendar icon</string>
-  <string name="calendar_lookahead_title">Event lookahead</string>
-  <string name="calendar_show_location_title">Event location</string>
-  <string name="calendar_show_description_title">Event description</string>
+  <string name="calendar_hide_allday_title">Ocultar eventos de dia inteiro</string>
+  <string name="calendar_icon_title">Ícone de Calendário</string>
+  <string name="calendar_lookahead_title">Eventos futuros</string>
+  <string name="calendar_show_location_title">Localização do evento</string>
+  <string name="calendar_show_description_title">Descrição do evento</string>
   <string name="calendar_upcoming_events_category">Upcoming events</string>
   <string name="calendar_highlight_upcoming_events_title">Highlight events</string>
   <string name="calendar_highlight_upcoming_events_summary">Highlight the current day\'s events and, after 8pm, also the next day\'s events</string>
