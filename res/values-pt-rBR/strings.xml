@@ -111,27 +111,27 @@
   <string name="weather_refresh_8hrs">8 horas</string>
   <!-- Preferences - Categories -->
   <string name="clock_category">Relógio e alarme</string>
-  <string name="weather_category">Weather panel</string>
-  <string name="calendar_category">Calendar events</string>
+  <string name="weather_category">Painel do tempo</string>
+  <string name="calendar_category">Eventos do calendário</string>
   <!-- Preferences - Categories -->
-  <string name="general_category">General</string>
+  <string name="general_category">Gerais</string>
   <string name="display_category">Exibição</string>
   <!-- Preferences - Clock -->
   <string name="use_digital_clock_title">Usar relógio Digital</string>
   <string name="use_digital_clock_summary">Selecione para alternar entre o relógio Digital e o Analógico</string>
   <string name="clock_font_title">Horas em negrito</string>
-  <string name="clock_font_minutes_title">Bold minutes</string>
-  <string name="clock_font_date_title">Bold date and alarm</string>
+  <string name="clock_font_minutes_title">Minutos em negrito</string>
+  <string name="clock_font_date_title">Data e alarme a negrito</string>
   <string name="show_alarm_title">Mostrar próximo alarme</string>
   <string name="clock_am_pm_title">Mostrar indicador AM/PM</string>
   <!-- Preferences - Weather -->
-  <string name="weather_enabled">Enabled</string>
+  <string name="weather_enabled">Ativado</string>
   <string name="weather_enable">Exibir tempo</string>
   <string name="weather_source_title">Fonte de meteorologia</string>
   <string name="weather_source_yahoo">Yahoo! Tempo</string>
   <string name="weather_use_custom_location">Usar localização personalizada</string>
   <string name="weather_geolocated">Geolocalização usando a rede</string>
-  <string name="weather_custom_location_dialog_title">Enter location</string>
+  <string name="weather_custom_location_dialog_title">Insira localização</string>
   <string name="weather_custom_location_hint">City, State/Country</string>
   <string name="weather_custom_location_title">Location</string>
   <string name="weather_show_location_title">Show location</string>
@@ -143,17 +143,17 @@
   <string name="weather_retrieve_location_dialog_enable_button">Enable</string>
   <string name="weather_invert_lowhigh">Invert low/high temperatures</string>
   <string name="weather_progress_title">Verifying location</string>
-  <string name="weather_alternate_icons_title">Use color icons</string>
-  <string name="weather_alternate_icons_summary">Select to toggle between the default (Color) and the alternate (White) icons</string>
+  <string name="weather_alternate_icons_title">Usar ícones coloridos</string>
+  <string name="weather_alternate_icons_summary">Selecione para alternar entre os ícones padrão (Cor) e os ícones alternativos (Branco)</string>
   <string name="weather_show_when_minimized_title">Mostrar quando minimizado</string>
   <string name="weather_show_when_minimized_summary">Mostrar informação resumida do tempo quando o widget está minimizado</string>
   <string name="weather_select_location">Selecionar localização</string>
   <!-- Preferences - Calendar -->
   <string name="calendar_title">Mostrar próximo evento</string>
-  <string name="calendars_title">Event calendars</string>
-  <string name="calendars_summary">Find events from these calendars</string>
-  <string name="calendar_reminders_only_title">Reminders only</string>
-  <string name="calendar_reminders_only_summary">Show only events with reminders</string>
+  <string name="calendars_title">Eventos das agendas</string>
+  <string name="calendars_summary">Procurar por eventos nestas agendas</string>
+  <string name="calendar_reminders_only_title">Apenas lembretes</string>
+  <string name="calendar_reminders_only_summary">Mostrar apenas eventos com lembretes</string>
   <string name="calendar_hide_allday_title">Ocultar eventos de dia inteiro</string>
   <string name="calendar_icon_title">Ícone de Calendário</string>
   <string name="calendar_lookahead_title">Eventos futuros</string>
