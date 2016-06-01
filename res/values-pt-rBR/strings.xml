@@ -132,17 +132,17 @@
   <string name="weather_use_custom_location">Usar localização personalizada</string>
   <string name="weather_geolocated">Geolocalização usando a rede</string>
   <string name="weather_custom_location_dialog_title">Insira localização</string>
-  <string name="weather_custom_location_hint">City, State/Country</string>
-  <string name="weather_custom_location_title">Location</string>
-  <string name="weather_show_location_title">Show location</string>
+  <string name="weather_custom_location_hint">Cidade, Estado/País</string>
+  <string name="weather_custom_location_title">Localização</string>
+  <string name="weather_show_location_title">Mostrar localização</string>
   <string name="weather_show_timestamp_title">Mostrar horário</string>
   <string name="weather_refresh_interval">Intervalo de atualização</string>
   <string name="weather_use_metric">Usar sistema métrico</string>
   <string name="weather_retrieve_location_dialog_title">Impossível determinar localização!</string>
   <string name="weather_retrieve_location_dialog_message">A geolocalização por rede está desativada.\n\nDefina uma localização ou ative a localização por rede</string>
-  <string name="weather_retrieve_location_dialog_enable_button">Enable</string>
-  <string name="weather_invert_lowhigh">Invert low/high temperatures</string>
-  <string name="weather_progress_title">Verifying location</string>
+  <string name="weather_retrieve_location_dialog_enable_button">Habilitar</string>
+  <string name="weather_invert_lowhigh">Inverte temperaturas alta/baixa</string>
+  <string name="weather_progress_title">Verificando localização</string>
   <string name="weather_alternate_icons_title">Usar ícones coloridos</string>
   <string name="weather_alternate_icons_summary">Selecione para alternar entre os ícones padrão (Cor) e os ícones alternativos (Branco)</string>
   <string name="weather_show_when_minimized_title">Mostrar quando minimizado</string>
@@ -159,8 +159,8 @@
   <string name="calendar_lookahead_title">Eventos futuros</string>
   <string name="calendar_show_location_title">Localização do evento</string>
   <string name="calendar_show_description_title">Descrição do evento</string>
-  <string name="calendar_upcoming_events_category">Upcoming events</string>
-  <string name="calendar_highlight_upcoming_events_title">Highlight events</string>
+  <string name="calendar_upcoming_events_category">Próximos eventos</string>
+  <string name="calendar_highlight_upcoming_events_title">Destacar eventos</string>
   <string name="calendar_highlight_upcoming_events_summary">Highlight the current day\'s events and, after 8pm, also the next day\'s events</string>
   <string name="calendar_highlight_upcoming_events_bold">Bold font</string>
   <!-- Preferences - Font colors -->
