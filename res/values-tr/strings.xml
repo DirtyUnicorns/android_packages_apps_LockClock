@@ -18,22 +18,22 @@
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
   <!-- General strings -->
   <string name="unknown">Bilinmiyor</string>
-  <string name="cancel">Cancel</string>
-  <string name="loading_indicator">Loading widget\u2026</string>
-  <string name="menu_done">Done</string>
+  <string name="cancel">İptal</string>
+  <string name="loading_indicator">Widget yükleniyor\u2026</string>
+  <string name="menu_done">Bitti</string>
   <string name="menu_weather_settings">Ayarlar</string>
   <!-- Formating strings for widget clock -->
   <!-- java.text.SimpleDateFormat uses H for hours in the 0-23 range and
          android.text.format.DateFormat uses k for hours in the 0-23 range.
          We need to support both -->
   <!-- Weather - Weather codes -->
-  <string name="weather_0">Tornado</string>
+  <string name="weather_0">Hortum</string>
   <string name="weather_1">Tropik Fırtına</string>
   <string name="weather_2">Kasırga</string>
   <string name="weather_3">Şiddetli Gök Görültülü Fırtına</string>
   <string name="weather_4">Thunderstorms</string>
-  <string name="weather_5">Mixed Rain and Snow</string>
-  <string name="weather_6">Mixed Rain and Sleet</string>
+  <string name="weather_5">Karla Karışık Yağmur</string>
+  <string name="weather_6">Karla Karışık Yağmur</string>
   <string name="weather_7">Mixed Snow and Sleet</string>
   <string name="weather_8">Dondurucu Çisenti</string>
   <string name="weather_9">Çiseleme</string>
