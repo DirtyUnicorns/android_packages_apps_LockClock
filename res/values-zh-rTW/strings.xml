@@ -32,9 +32,9 @@
   <string name="weather_2">颶風</string>
   <string name="weather_3">大雷暴</string>
   <string name="weather_4">雷暴</string>
-  <string name="weather_5">降雨時有雪</string>
-  <string name="weather_6">降雨時有雹</string>
-  <string name="weather_7">降雪時有雹</string>
+  <string name="weather_5">雨夾冰雪</string>
+  <string name="weather_6">雨夾冰雹</string>
+  <string name="weather_7">雪夾冰雹</string>
   <string name="weather_8">凍毛雨</string>
   <string name="weather_9">毛毛雨</string>
   <string name="weather_10">凍雨</string>
