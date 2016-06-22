@@ -100,7 +100,7 @@
   <string name="weather_tap_to_refresh">Нажмите, чтобы обновить</string>
   <string name="weather_refreshing">Обновляем...</string>
   <string name="weather_last_sync_just_now">Только что</string>
-  <string name="weather_cannot_reach_provider">Сервер недоступен</string>
+  <string name="weather_cannot_reach_provider">Сервер %s недоступен</string>
   <!-- Weather - Update frequency -->
   <string name="weather_refresh_manual">Вручную</string>
   <string name="weather_refresh_30min">30 мин.</string>
@@ -111,7 +111,7 @@
   <string name="weather_refresh_8hrs">8 ч.</string>
   <!-- Preferences - Categories -->
   <string name="clock_category">Часы и будильник</string>
-  <string name="weather_category">Панель погоды</string>
+  <string name="weather_category">Погода</string>
   <string name="calendar_category">События календаря</string>
   <!-- Preferences - Categories -->
   <string name="general_category">Общие</string>
@@ -200,5 +200,5 @@
   <string name="weather_icon_set_title">Набор значков</string>
   <string name="weather_icons_standard">Цветные</string>
   <string name="weather_icons_monochrome">Монохромные</string>
-  <string name="icon_set_selection_get_more">Скачать ещё</string>
+  <string name="icon_set_selection_get_more">Скачать ещё\u2026</string>
 </resources>
