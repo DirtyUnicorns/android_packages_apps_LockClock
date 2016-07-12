@@ -31,35 +31,35 @@
   <string name="weather_1">Tropik Fırtına</string>
   <string name="weather_2">Kasırga</string>
   <string name="weather_3">Şiddetli Gök Görültülü Fırtına</string>
-  <string name="weather_4">Thunderstorms</string>
+  <string name="weather_4">Gök Gürültülü Fırtına</string>
   <string name="weather_5">Karla Karışık Yağmur</string>
   <string name="weather_6">Karla Karışık Yağmur</string>
-  <string name="weather_7">Mixed Snow and Sleet</string>
+  <string name="weather_7">Karla Karışık Hafif Dolu</string>
   <string name="weather_8">Dondurucu Çisenti</string>
   <string name="weather_9">Çiseleme</string>
   <string name="weather_10">Dondurucu Yağmur</string>
   <string name="weather_11">Sağanak</string>
-  <string name="weather_12">Showers</string>
-  <string name="weather_13">Snow Flurries</string>
-  <string name="weather_14">Light Snow Showers</string>
+  <string name="weather_12">Sağanak</string>
+  <string name="weather_13">Kar Fırtınası</string>
+  <string name="weather_14">Hafif Kar Yağışı</string>
   <string name="weather_15">Karlı Tipi</string>
   <string name="weather_16">Kar</string>
   <string name="weather_17">Dolu</string>
   <string name="weather_18">Sulu kar</string>
-  <string name="weather_19">Dust</string>
-  <string name="weather_20">Foggy</string>
-  <string name="weather_21">Haze</string>
+  <string name="weather_19">Toz</string>
+  <string name="weather_20">Sisli</string>
+  <string name="weather_21">Puslu</string>
   <string name="weather_22">Dumanlı</string>
   <string name="weather_23">Şiddetli Rüzgar</string>
   <string name="weather_24">Rüzgarlı</string>
   <string name="weather_25">Soğuk</string>
-  <string name="weather_26">Cloudy</string>
+  <string name="weather_26">Bulutlu</string>
   <!-- Night -->
-  <string name="weather_27">Mostly Cloudy</string>
+  <string name="weather_27">Çoğunlukla Bulutlu</string>
   <!-- Day -->
-  <string name="weather_28">Mostly Cloudy</string>
+  <string name="weather_28">Çoğunlukla Bulutlu</string>
   <!-- Night -->
-  <string name="weather_29">Partly Cloudy</string>
+  <string name="weather_29">Parçalı Bulutlu</string>
   <!-- Day -->
   <string name="weather_30">Parçalı Bulutlu</string>
   <!-- Night -->
@@ -69,19 +69,19 @@
   <string name="weather_33">Güzel Hava</string>
   <!-- Day -->
   <string name="weather_34">Güzel Hava</string>
-  <string name="weather_35">Mixed Rain and Hail</string>
-  <string name="weather_36">Hot</string>
-  <string name="weather_37">Isolated Thunderstorms</string>
-  <string name="weather_38">Scattered Thunderstorms</string>
+  <string name="weather_35">Yağmurla Karışık Dolu</string>
+  <string name="weather_36">Sıcak</string>
+  <string name="weather_37">Yer Yer Gökgürültülü</string>
+  <string name="weather_38">Aralıklı Gökgürültülü Fırtına</string>
   <string name="weather_39">Aralıklı Gökgürültülü Fırtına</string>
   <string name="weather_40">Yer Yer Yağışlı</string>
   <string name="weather_41">Şiddetli Kar</string>
   <string name="weather_42">Yer Yer Kar Yağışlı</string>
   <string name="weather_43">Şiddetli Kar</string>
   <string name="weather_44">Parçalı Bulutlu</string>
-  <string name="weather_45">Thundershowers</string>
-  <string name="weather_46">Snow Showers</string>
-  <string name="weather_47">Isolated Thundershowers</string>
+  <string name="weather_45">Gökgürültülü Yağış</string>
+  <string name="weather_46">Kar Yağışlı</string>
+  <string name="weather_47">Yer Yer Gökgürültülü Sağnak</string>
   <!-- Forecast unavailable -->
   <!-- Weather - Speed units -->
   <string name="weather_kph">kph</string>
@@ -96,13 +96,13 @@
   <string name="weather_W">W</string>
   <string name="weather_NW">NW</string>
   <!-- Weather - Error messages -->
-  <string name="weather_no_data">No data</string>
-  <string name="weather_tap_to_refresh">Tap to refresh</string>
-  <string name="weather_refreshing">Refreshing</string>
-  <string name="weather_last_sync_just_now">Just now</string>
-  <string name="weather_cannot_reach_provider">Can\'t reach %s at the moment</string>
+  <string name="weather_no_data">Veri bulunamadı</string>
+  <string name="weather_tap_to_refresh">Yenilemek için tıklayın</string>
+  <string name="weather_refreshing">Yeniliyor</string>
+  <string name="weather_last_sync_just_now">Şimdi</string>
+  <string name="weather_cannot_reach_provider">%s şu anda ulaşılamıyor</string>
   <!-- Weather - Update frequency -->
-  <string name="weather_refresh_manual">Manual</string>
+  <string name="weather_refresh_manual">El ile</string>
   <string name="weather_refresh_30min">30 dakika</string>
   <string name="weather_refresh_60min">60 dakika</string>
   <string name="weather_refresh_2hrs">2 saat</string>
@@ -112,16 +112,16 @@
   <!-- Preferences - Categories -->
   <string name="clock_category">Saat ve alarm</string>
   <string name="weather_category">Hava durumu paneli</string>
-  <string name="calendar_category">Calendar events</string>
+  <string name="calendar_category">Takvim olayları</string>
   <!-- Preferences - Categories -->
-  <string name="general_category">General</string>
-  <string name="display_category">Display</string>
+  <string name="general_category">Genel</string>
+  <string name="display_category">Ekran</string>
   <!-- Preferences - Clock -->
-  <string name="use_digital_clock_title">Use Digital clock</string>
-  <string name="use_digital_clock_summary">Select to toggle between the Digital and the Analog clock</string>
-  <string name="clock_font_title">Bold hours</string>
-  <string name="clock_font_minutes_title">Bold minutes</string>
-  <string name="clock_font_date_title">Bold date and alarm</string>
+  <string name="use_digital_clock_title">Dijital saat kullan</string>
+  <string name="use_digital_clock_summary">Dijital ve Analog saat arasında geçiş yapmak için seçin</string>
+  <string name="clock_font_title">Saat kalın</string>
+  <string name="clock_font_minutes_title">Dakika kalın</string>
+  <string name="clock_font_date_title">Tarih ve alarmı kalın göster</string>
   <string name="show_alarm_title">Gelecek alarmı göster</string>
   <string name="clock_am_pm_title">ÖÖ/ÖS göstergesini göster</string>
   <!-- Preferences - Weather -->
@@ -132,16 +132,16 @@
   <string name="weather_use_custom_location">Özel bir konum kullan</string>
   <string name="weather_geolocated">Ağ kullanarak konumlandır</string>
   <string name="weather_custom_location_dialog_title">Konum girişi</string>
-  <string name="weather_custom_location_hint">City, State/Country</string>
-  <string name="weather_custom_location_title">Location</string>
-  <string name="weather_show_location_title">Show location</string>
-  <string name="weather_show_timestamp_title">Show timestamp</string>
-  <string name="weather_refresh_interval">Update interval</string>
-  <string name="weather_use_metric">Use metric</string>
-  <string name="weather_retrieve_location_dialog_title">Cannot retrieve location!</string>
-  <string name="weather_retrieve_location_dialog_message">Network geolocation is disabled.\n\nSet a custom location or enable network location</string>
-  <string name="weather_retrieve_location_dialog_enable_button">Enable</string>
-  <string name="weather_invert_lowhigh">Invert low/high temperatures</string>
+  <string name="weather_custom_location_hint">Şehir, Bölge/Ülke</string>
+  <string name="weather_custom_location_title">Konum</string>
+  <string name="weather_show_location_title">Konumu göster</string>
+  <string name="weather_show_timestamp_title">Zaman damgasını göster</string>
+  <string name="weather_refresh_interval">Güncelleme aralığı</string>
+  <string name="weather_use_metric">Metrik biçim kullanın</string>
+  <string name="weather_retrieve_location_dialog_title">Konum alınamıyor!</string>
+  <string name="weather_retrieve_location_dialog_message">Ağ konumlandırması kapalı durumda.\n\nÖzel konum ayarlayın ya da ağ konumunu etkinleştirin</string>
+  <string name="weather_retrieve_location_dialog_enable_button">Etkinleştir</string>
+  <string name="weather_invert_lowhigh">Yüksek/alçak sıcaklığı ters çevir</string>
   <string name="weather_progress_title">Konum doğrulanıyor</string>
   <string name="weather_alternate_icons_title">Renkli simgeler kullan</string>
   <string name="weather_alternate_icons_summary">Varsayılan (renkli) ya da alternatif (beyaz) simgeler arasında geçiş yapmak için seçin</string>
@@ -153,18 +153,18 @@
   <string name="calendars_title">Takvim etkinlikleri</string>
   <string name="calendars_summary">Bu takvimlerden olayları bul</string>
   <string name="calendar_reminders_only_title">Sadece hatırlatıcılar</string>
-  <string name="calendar_reminders_only_summary">Show only events with reminders</string>
-  <string name="calendar_hide_allday_title">Hide all-day events</string>
-  <string name="calendar_icon_title">Calendar icon</string>
-  <string name="calendar_lookahead_title">Event lookahead</string>
-  <string name="calendar_show_location_title">Event location</string>
-  <string name="calendar_show_description_title">Event description</string>
-  <string name="calendar_upcoming_events_category">Upcoming events</string>
-  <string name="calendar_highlight_upcoming_events_title">Highlight events</string>
-  <string name="calendar_highlight_upcoming_events_summary">Highlight the current day\'s events and, after 8pm, also the next day\'s events</string>
-  <string name="calendar_highlight_upcoming_events_bold">Bold font</string>
+  <string name="calendar_reminders_only_summary">Sadece hatırlatıcıları olan olayları göster</string>
+  <string name="calendar_hide_allday_title">Gün boyu etkinliklerini gizle</string>
+  <string name="calendar_icon_title">Takvim simgesi</string>
+  <string name="calendar_lookahead_title">İleriye yönelik olaylar</string>
+  <string name="calendar_show_location_title">Olay konumu</string>
+  <string name="calendar_show_description_title">Olay açıklaması</string>
+  <string name="calendar_upcoming_events_category">Yaklaşan etkinlikler</string>
+  <string name="calendar_highlight_upcoming_events_title">Etkinlikleri vurgula</string>
+  <string name="calendar_highlight_upcoming_events_summary">Günlük etkinlikleri ve saat 8\'den itibaren yarınki etkinlikleri vurgula</string>
+  <string name="calendar_highlight_upcoming_events_bold">Kalın yazıtipi</string>
   <!-- Preferences - Font colors -->
-  <string name="font_color">Font color</string>
+  <string name="font_color">Font rengi</string>
   <string name="font_color_alarm">Alarm yazı rengi</string>
   <string name="font_color_timestamp">Zaman damgası rengi</string>
   <string name="font_color_calendar_details">Detaylar yazı rengi</string>
@@ -181,12 +181,12 @@
   <!-- Calendar - Event metadata -->
   <string name="calendar_metadata_none">Gösterme</string>
   <string name="calendar_metadata_first_line">İlk satırı göster</string>
-  <string name="calendar_metadata_all">Show all</string>
+  <string name="calendar_metadata_all">Hepsini göster</string>
   <!-- Font colors -->
-  <string name="white">White</string>
-  <string name="grey">Grey</string>
-  <string name="black">Black</string>
-  <string name="holo_blue_light">Light blue</string>
+  <string name="white">Beyaz</string>
+  <string name="grey">Gri</string>
+  <string name="black">Siyah</string>
+  <string name="holo_blue_light">Açık mavi</string>
   <string name="holo_green_light">Light green</string>
   <string name="holo_red_light">Light red</string>
   <string name="holo_blue_dark">Dark blue</string>
