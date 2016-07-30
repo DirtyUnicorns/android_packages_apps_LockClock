@@ -122,7 +122,7 @@
   <string name="clock_font_title">Timmar i fetstil</string>
   <string name="clock_font_minutes_title">Minuter i fetstil</string>
   <string name="clock_font_date_title">Datum/alarm i fetstil</string>
-  <string name="show_alarm_title">Visa nästa larm</string>
+  <string name="show_alarm_title">Visa nästa alarm</string>
   <string name="clock_am_pm_title">Visa AM/PM-indikator</string>
   <!-- Preferences - Weather -->
   <string name="weather_enabled">Aktiverad</string>

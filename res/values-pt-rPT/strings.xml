@@ -17,8 +17,8 @@
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
   <!-- General strings -->
-  <string name="unknown">Unknown</string>
-  <string name="cancel">Cancel</string>
+  <string name="unknown">Desconhecido</string>
+  <string name="cancel">Cancelar</string>
   <string name="loading_indicator">Loading widget\u2026</string>
   <string name="menu_done">Done</string>
   <string name="menu_weather_settings">Settings</string>
@@ -29,7 +29,7 @@
   <!-- Weather - Weather codes -->
   <string name="weather_0">Tornado</string>
   <string name="weather_1">Tropical Storm</string>
-  <string name="weather_2">Hurricane</string>
+  <string name="weather_2">Furacão</string>
   <string name="weather_3">Severe Thunderstorms</string>
   <string name="weather_4">Thunderstorms</string>
   <string name="weather_5">Mixed Rain and Snow</string>
