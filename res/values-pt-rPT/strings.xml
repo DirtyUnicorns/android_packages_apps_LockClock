@@ -19,69 +19,69 @@
   <!-- General strings -->
   <string name="unknown">Desconhecido</string>
   <string name="cancel">Cancelar</string>
-  <string name="loading_indicator">Loading widget\u2026</string>
-  <string name="menu_done">Done</string>
-  <string name="menu_weather_settings">Settings</string>
+  <string name="loading_indicator">A carregar widget\u2026</string>
+  <string name="menu_done">Concluído</string>
+  <string name="menu_weather_settings">Definições</string>
   <!-- Formating strings for widget clock -->
   <!-- java.text.SimpleDateFormat uses H for hours in the 0-23 range and
          android.text.format.DateFormat uses k for hours in the 0-23 range.
          We need to support both -->
   <!-- Weather - Weather codes -->
   <string name="weather_0">Tornado</string>
-  <string name="weather_1">Tropical Storm</string>
+  <string name="weather_1">Tempestade Tropical</string>
   <string name="weather_2">Furacão</string>
-  <string name="weather_3">Severe Thunderstorms</string>
-  <string name="weather_4">Thunderstorms</string>
-  <string name="weather_5">Mixed Rain and Snow</string>
-  <string name="weather_6">Mixed Rain and Sleet</string>
-  <string name="weather_7">Mixed Snow and Sleet</string>
-  <string name="weather_8">Freezing Drizzle</string>
-  <string name="weather_9">Drizzle</string>
-  <string name="weather_10">Freezing Rain</string>
-  <string name="weather_11">Showers</string>
-  <string name="weather_12">Showers</string>
-  <string name="weather_13">Snow Flurries</string>
-  <string name="weather_14">Light Snow Showers</string>
-  <string name="weather_15">Blowing Snow</string>
-  <string name="weather_16">Snow</string>
-  <string name="weather_17">Hail</string>
-  <string name="weather_18">Sleet</string>
-  <string name="weather_19">Dust</string>
-  <string name="weather_20">Foggy</string>
-  <string name="weather_21">Haze</string>
-  <string name="weather_22">Smoky</string>
-  <string name="weather_23">Blustery</string>
-  <string name="weather_24">Windy</string>
-  <string name="weather_25">Cold</string>
-  <string name="weather_26">Cloudy</string>
+  <string name="weather_3">Trovoadas fortes</string>
+  <string name="weather_4">Tempestades</string>
+  <string name="weather_5">Chuva e Neve Misturados</string>
+  <string name="weather_6">Chuva e granizo</string>
+  <string name="weather_7">Neve e Geada Misturados</string>
+  <string name="weather_8">Chuviscos gelados</string>
+  <string name="weather_9">Chuviscos</string>
+  <string name="weather_10">Chuva gelada</string>
+  <string name="weather_11">Aguaceiros</string>
+  <string name="weather_12">Aguaceiros</string>
+  <string name="weather_13">Flocos de Neve</string>
+  <string name="weather_14">Chuva de Neve Fraca</string>
+  <string name="weather_15">Tempestade de Neve</string>
+  <string name="weather_16">Neve</string>
+  <string name="weather_17">Granizo</string>
+  <string name="weather_18">Geada</string>
+  <string name="weather_19">Poeira</string>
+  <string name="weather_20">Nebuloso</string>
+  <string name="weather_21">Neblina</string>
+  <string name="weather_22">Nevoeiro</string>
+  <string name="weather_23">Ventos Fortes</string>
+  <string name="weather_24">Ventania</string>
+  <string name="weather_25">Frio</string>
+  <string name="weather_26">Nublado</string>
   <!-- Night -->
-  <string name="weather_27">Mostly Cloudy</string>
+  <string name="weather_27">Maior Parte Nublado</string>
   <!-- Day -->
-  <string name="weather_28">Mostly Cloudy</string>
+  <string name="weather_28">Maior Parte Nublado</string>
   <!-- Night -->
-  <string name="weather_29">Partly Cloudy</string>
+  <string name="weather_29">Parcialmente Nublado</string>
   <!-- Day -->
-  <string name="weather_30">Partly Cloudy</string>
+  <string name="weather_30">Parcialmente Nublado</string>
   <!-- Night -->
-  <string name="weather_31">Clear</string>
-  <string name="weather_32">Sunny</string>
+  <string name="weather_31">Limpo</string>
+  <string name="weather_32">Sol</string>
   <!-- Night -->
-  <string name="weather_33">Fair</string>
+  <string name="weather_33">Razoável</string>
   <!-- Day -->
-  <string name="weather_34">Fair</string>
-  <string name="weather_35">Mixed Rain and Hail</string>
-  <string name="weather_36">Hot</string>
-  <string name="weather_37">Isolated Thunderstorms</string>
-  <string name="weather_38">Scattered Thunderstorms</string>
-  <string name="weather_39">Scattered Thunderstorms</string>
-  <string name="weather_40">Scattered Showers</string>
-  <string name="weather_41">Heavy Snow</string>
-  <string name="weather_42">Scattered Snow Showers</string>
-  <string name="weather_43">Heavy Snow</string>
-  <string name="weather_44">Partly Cloudy</string>
-  <string name="weather_45">Thundershowers</string>
-  <string name="weather_46">Snow Showers</string>
-  <string name="weather_47">Isolated Thundershowers</string>
+  <string name="weather_34">Razoável</string>
+  <string name="weather_35">Chuva e Granizo Misturados</string>
+  <string name="weather_36">Quente</string>
+  <string name="weather_37">Tempestades Isoladas</string>
+  <string name="weather_38">Tempestades Dispersas</string>
+  <string name="weather_39">Tempestades Dispersas</string>
+  <string name="weather_40">Aguaceiros dispersos</string>
+  <string name="weather_41">Neve forte</string>
+  <string name="weather_42">Aguaceiros de neve espalhados</string>
+  <string name="weather_43">Neve forte</string>
+  <string name="weather_44">Parcialmente Nublado</string>
+  <string name="weather_45">Chuvas com Trovoadas</string>
+  <string name="weather_46">Chuva de Neve</string>
+  <string name="weather_47">Chuvas com Trovoadas Isoladas</string>
   <!-- Forecast unavailable -->
   <!-- Weather - Speed units -->
   <string name="weather_kph">kph</string>
